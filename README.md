@@ -10,7 +10,7 @@ Opencore 0.6.6
 ## Specs: 
 
 - CPU: Intel Core i5-10300H 2.5 GHz Quad Core
-- RAM: 8 GB DDR4 2933 MHz (2 x 4GB)
+- RAM: 16 GB DDR4 2933 MHz (2 x 8GB)
 - iGPU: Intel UHD 630
 - dGPU: Nvidia GTX 1650Ti 8 GB
 - SSD: 512 GB NVMe
