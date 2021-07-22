@@ -12,7 +12,7 @@ Opencore 0.6.6
 - CPU: Intel Core i5-10300H 2.5 GHz Quad Core
 - RAM: 8 GB DDR4 2933 MHz (2 x 4GB)
 - iGPU: Intel UHD 630
-- dGPU: Nvidia GTX 1650Ti 4 GB
+- dGPU: Nvidia GTX 1650Ti 8 GB
 - SSD: 512 GB NVMe
 - Display: 15.6" 1920 x 1080 60 Hz
 - Sound: Realtek ALC 295
