@@ -5,7 +5,7 @@ Dell G3 3500 Opencore Hackintosh
 Note: There's no SMBIOS info. You need to generate your own serial and change it from config.plist. Set GenSMBIOS for MacBookPro16,4
 
 
-Opencore 0.6.6
+Opencore 0.7.0
 
 ## Specs: 
 
